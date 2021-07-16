@@ -1,5 +1,8 @@
 # dropdownroles
 
-Create a .env file name `token` and put your bot token there
+Go to index.js and put ur Bot token and prefix 
+Then run the bot using `node .`
 
-See this video for explaination
+REMEMBER THIS WILL ONLY WORK IN REPL.IT AND Visual Studion Code
+
+GLITCH WON'T WORK
