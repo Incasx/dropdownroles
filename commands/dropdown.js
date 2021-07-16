@@ -50,9 +50,9 @@ module.exports.run = async (client, message, args) => {
 };
 
 module.exports.config = {
-	name: 'create-dp',
+	name: 'dropdown',
 	description: 'Creates dropdown role!',
-	usage: '?create-dp',
+	usage: '?dropdown',
 	botPerms: [],
 	userPerms: ['MANAGE_GUILD'],
 	aliases: [],
