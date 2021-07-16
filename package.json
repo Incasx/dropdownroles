@@ -17,8 +17,9 @@
   },
   "homepage": "https://github.com/Incasx/dropdownroles#readme",
   "dependencies": {
-    "discord-buttons": "^4.0.0",
+    ""discord-buttons": "^4.0.0",
     "discord.js": "^12.5.3",
-    "nuggies": "^1.2.51"
+    "dotenv": "^10.0.0",
+    "nuggies": "^1.2.5"
   }
 }
